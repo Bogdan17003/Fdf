@@ -1,0 +1,8 @@
+{
+    ".insertSpaces": false,
+	".detectIndentation": false,
+	"C_Cpp.errorSquiggles": "Disabled",
+	".renderWhitespace": "all",
+	"files.trimTrailingWhitespace": true,
+	"files.insertFinalNewline": true
+}
